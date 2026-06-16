@@ -62,7 +62,7 @@ Then commit:
 ```bash
 python upload_product_portfolio.py \
     --successful-domains successful_domains.xlsx \
-    --hubspot-export hubspot-crm-exports-product-portfolio-upload-check-2026-05-04.xlsx \
+    --hubspot-export hubspot-crm-exports-product-portfolio-upload-check-2026-06-04.xlsx \
     --output-dir ./outputs
 ```
 
